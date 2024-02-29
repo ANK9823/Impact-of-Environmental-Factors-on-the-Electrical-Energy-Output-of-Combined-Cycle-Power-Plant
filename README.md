@@ -1,0 +1,2 @@
+# Impact-of-Environmental-Factors-on-the-Electrical-Energy-Output-of-Combined-Cycle-Power-Plant
+This is a group project of a statistical regression analysis on  the complex relationship between  combined cycle power plant performance and the influential variables of Ambient  Temperature (AT), Ambient Pressure (AP), Relative Humidity (RH), and Exhaust  Vacuum (V) under ninety-five percent confidence level throughout the analysis. 
